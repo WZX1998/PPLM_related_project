@@ -1,0 +1,1 @@
+{"class_size": 3, "embed_size": 768, "pretrained_model": "/content/gdrive/MyDrive/PPLM-master/saved_gpt_models_ml_conflict/checkpoint-9846", "class_vocab": {"entailment": 0, "neutral": 1, "contradiction": 2}, "default_class": 3}
